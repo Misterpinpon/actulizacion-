@@ -1,4 +1,4 @@
 
 <Version: 1.01>
-<data/carlos https://wordpress.org/latest.zip
-<end of version>
+/data/carlos.zig https://wordpress.org/latest.zip
+<End of Version>
